@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/p-emex/p-emex.r-universe.dev
 	branch = HEAD
+[submodule "mrgsim.ds"]
+	path = mrgsim.ds
+	url = https://github.com/p-emex/mrgsim.ds
